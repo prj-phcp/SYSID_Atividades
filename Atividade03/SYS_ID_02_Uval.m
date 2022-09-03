@@ -6,7 +6,7 @@
 clc
 clear
 close all
-rng(1) % permite reproducibilidade
+%rng(1) % permite reproducibilidade
 
 load utra % training data created (multisine)
 
